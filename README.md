@@ -1,5 +1,7 @@
 # Project Ellen
 
+> Project Ellen was a school project aimed mainly at developing OOP skills using Java programming language. The course spanned one semester and there were multiple variations of the final projects developed along the way.
+
 ## Project goal
 Project Goal
 This project was made as assignment for one of my classes while I was in school. The class focused on object-oriented programming and this assignment was supposed to test the knowledge that we have learned throughout the course. The project focuses on implementation of some key features of OOP such as inheritance, abstraction, polymorphism and encapsulation, design patterns… The result was supposed to be one fully playable game level that is finishable and contains multiple different types of enemies, interactive elements, some progress features and of course ability to successfully finish the level with some action.
